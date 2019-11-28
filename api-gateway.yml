@@ -20,3 +20,4 @@ zuul:
   # ignored-services: product-service
   # 配置zuul网关不过滤敏感请求头（默认会过滤掉：Cookie、Set-Cookie、Authorization）
   sensitive-headers:
+  
